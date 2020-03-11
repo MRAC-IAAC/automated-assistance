@@ -19,8 +19,8 @@
   
  ## Getting started 
  Analizing the actual behaviour in construction sites, we designed a protocol for tool demand and deliver.
- ![]git/3.jpg)
- ![]git/4.jpg)
+ ![](git/3.jpg)
+ ![](git/4.jpg)
  
  First install OpenCV on Raspberry Pi and the libraries for face recognition and servo: haarcascade_frontal_face, Raspberry pi drivers for Raspberry camera,dlib, OS libraries.
  ![]git/5.jpg)
