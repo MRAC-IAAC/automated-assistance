@@ -29,8 +29,9 @@
  ![](git/6.jpg)
  ![](git/7.jpg)
  ## Demo 1 Face Recognition
-  ![](git/Face-Recognition_Test.gif)
-  ![](git/8.jpg)
+ ![](git/8.jpg)
+ ![](git/Face-Recognition_Test.gif)
+  
   
  ## Demo 2 Face Recognition and gripper open/close
  In this diagrams is possible to see process of the different steps done.
