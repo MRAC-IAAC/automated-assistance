@@ -25,6 +25,7 @@
  
  First install OpenCV on Raspberry Pi and the libraries for face recognition and servo: haarcascade_frontal_face, Raspberry pi drivers for Raspberry camera,dlib, OS libraries.
  ![](git/5.jpg)
+ ![](git/14.jpg)
  ![](git/6.jpg)
  ![](git/7.jpg)
  ## Demo 1 Face Recognition
