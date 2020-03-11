@@ -6,7 +6,7 @@
  is wasted in material waiting, tool waiting, material handling and movement.
  
  How improve working time and help to increase production rates?
-  ![]git/1.jpg)
+  ![](git/1.jpg)
  
  ## Requirements 
  
