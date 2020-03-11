@@ -6,6 +6,7 @@
  is wasted in material waiting, tool waiting, material handling and movement.
  
  How improve working time and help to increase production rates?
+  ![git/1.jpg)
  
  ## Requirements 
  
@@ -14,14 +15,20 @@
  -Raspberry camera
  -OpenCV phyton 
  -Zbar code reader 
- <img src ="images/1a.png" width ="100">
+ ![git/12.jpg)
   
  ## Getting started 
  Analizing the actual behaviour in construction sites, we designed a protocol for tool demand and deliver.
- ![Alt Text]()
- First install OpenCV on Raspberry Pi and the libraries for face recognition 
+ ![git/3.jpg)
+ ![git/4.jpg)
  
+ First install OpenCV on Raspberry Pi and the libraries for face recognition and servo: haarcascade_frontal_face, Raspberry pi drivers for Raspberry camera,dlib, OS libraries.
+ ![git/5.jpg)
+ ![git/6.jpg)
+ ![git/7.jpg)
  ## Workflow 
  In this diagrams is possible to see process of the different steps done.
+ Construct gripper using rhino file and cut it with laser cut machine 
+ 
  
  
