@@ -27,14 +27,17 @@
  ![](git/5.jpg)
  ![](git/6.jpg)
  ![](git/7.jpg)
+ ## Demo 1 Face Recognition
+  ![](git/Face-Recognition_Test.gif)
+  
  ## Demo 2 Face Recognition and gripper open/close
  In this diagrams is possible to see process of the different steps done.
  Construct gripper using rhino file and cut it with laser cut machine 
  Do the connection between Raspberry camera and Raspberry pi, and the servo with the board.
  Use the camera to detect faces and recognize it, when the detection is possitive the gripper is moving. 
- 
+
  ![](git/Face-Recognition_servo-Test.gif)
- ![](git/Face-Recognition_Test.gif)
+
  
  
  
