@@ -7,6 +7,7 @@
  
  How improve working time and help to increase production rates?
   ![](git/1.jpg)
+   ![](git/2.jpg)
  
  ## Requirements 
  
