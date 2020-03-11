@@ -28,8 +28,10 @@
  ![](git/14.jpg)
  ![](git/6.jpg)
  ![](git/7.jpg)
- ## Demo 1 Face Recognition
+
  ![](git/8.jpg)
+ 
+  ## Demo 1 Face Recognition-Labour X
  ![](git/Face-Recognition_Test.gif)
   
   
