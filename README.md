@@ -32,8 +32,9 @@
  Construct gripper using rhino file and cut it with laser cut machine 
  Do the connection between Raspberry camera and Raspberry pi, and the servo with the board.
  Use the camera to detect faces and recognize it, when the detection is possitive the gripper is moving. 
- ![](git/Face-Recognition_Test-Gif%20(1).gif)
+ 
  ![](git/Face-Recognition_servo-Test.gif)
+ ![](Face-Recognition_Test.gif)
  
  
  
