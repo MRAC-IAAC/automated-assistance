@@ -15,7 +15,7 @@
  -Raspberry camera
  -OpenCV phyton 
  -Zbar code reader 
- ![]git/12.jpg)
+ ![](git/12.jpg)
   
  ## Getting started 
  Analizing the actual behaviour in construction sites, we designed a protocol for tool demand and deliver.
@@ -23,9 +23,9 @@
  ![](git/4.jpg)
  
  First install OpenCV on Raspberry Pi and the libraries for face recognition and servo: haarcascade_frontal_face, Raspberry pi drivers for Raspberry camera,dlib, OS libraries.
- ![]git/5.jpg)
- ![git/6.jpg)
- ![]git/7.jpg)
+ ![](git/5.jpg)
+ ![](git/6.jpg)
+ ![](git/7.jpg)
  ## Workflow 
  In this diagrams is possible to see process of the different steps done.
  Construct gripper using rhino file and cut it with laser cut machine 
