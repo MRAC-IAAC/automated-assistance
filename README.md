@@ -38,6 +38,9 @@
  Use the camera to detect faces and recognize it, when the detection is possitive the gripper is moving. 
 
  ![](git/Face-Recognition_servo-Test.gif)
+ 
+ ![](git/13.jpg)
+ ![](git/12.jpg)
 
  
  
