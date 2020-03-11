@@ -29,6 +29,8 @@
  ## Workflow 
  In this diagrams is possible to see process of the different steps done.
  Construct gripper using rhino file and cut it with laser cut machine 
+ Do the connection between Raspberry camera and Raspberry pi, and the servo with the board.
+ Use the camera to detect faces and recognize it, when the detection is possitive the gripper is moving. 
  
  
  
